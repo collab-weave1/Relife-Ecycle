@@ -12,3 +12,6 @@ India faces a monumental e-waste crisis. Only a small portion undergoes formal r
 
 ReLife is a robust, web-based platform designed to bridge the critical gaps in e-waste management. It connects consumers, recyclers, informal workers, and producers, fostering a truly circular economy. It combines geo-based pickups, gamified eco-point rewards, educational modules, and compliance dashboards to drive sustainable, circular behavior across the e-waste lifecycle.
 
+## Relife Assistant
+
+An RAG AI Assistant specifically for users.
