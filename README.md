@@ -14,4 +14,4 @@ ReLife is a robust, web-based platform designed to bridge the critical gaps in e
 
 ## Relife Assistant
 
-An RAG AI Assistant specifically for users.
+An RAG AI Assistant to assist users specifically.
