@@ -58,7 +58,7 @@ ReLife is a robust, web-based platform designed to bridge the critical gaps in e
 * **React + Vite**
 * TailwindCSS for responsive, WCAG-compliant UI
 * Mapbox GL for dynamic map-based features
-* Botpress RAG AI Agent
+* Botpress RAG AI Agent to assist users
 
 ### Backend
 
