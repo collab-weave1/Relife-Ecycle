@@ -42,7 +42,7 @@ const App = () => {
   const renderPage = () => {
     switch (currentPage) {
       case 'login':
-        return <Login onLogin={handleLogin} />;
+        return <Login onLogin={handleLogin} isDark={isDark} onDarkToggle={() => setIsDark(!isDark)}/>;
       case 'user-dashboard':
         return <UserDashboard onLogout={handleLogout} onNavigate={handleNavigate} />;
       case 'recycler-dashboard':
